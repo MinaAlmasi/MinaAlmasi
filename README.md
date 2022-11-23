@@ -1,4 +1,1 @@
-@MinaAlmasi
-
-Cognitive Science, Aarhus University 
-
+Student @ Cognitive Science, Aarhus University 
