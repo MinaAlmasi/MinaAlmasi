@@ -1,1 +1,1 @@
-Student @ Cognitive Science, Aarhus University 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF00B3&center=true&vCenter=true&width=435&lines=Mina+Almasi;Cognitive+Science+BSc.;Aarhus+University)](https://git.io/typing-svg)
