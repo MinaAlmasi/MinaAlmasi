@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00B3&width=435&lines=Mina+Almasi;Cognitive+Science+BSc.;Aarhus+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bricolage+Grotesque&size=45&pause=1000&color=FF00B3&width=500&height=80&lines=Mina+Almasi;Cognitive+Science+MSc.;Aarhus+University)](https://git.io/typing-svg)
